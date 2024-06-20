@@ -4,5 +4,5 @@
 
 ## Current Projects
 
-**- Electrical Proxy**
+**- Electrical Proxy** <br>
 **- Electrical AI**
